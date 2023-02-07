@@ -1,1 +1,1 @@
-This is the directory readme
+This is the updated directory readme
